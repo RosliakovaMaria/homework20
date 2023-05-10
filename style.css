@@ -7,3 +7,13 @@
     transform: rotate(30deg);
     transform: scaleX(20);
 }
+.btn{
+    transition-property: background-color;
+    transition-duration: 2s;
+    color:#2196F3;
+    transition-timing-function: ease;
+    transition-delay: 1s;
+    transform: rotate(20deg);
+    transform: scaleX(10);
+
+}
