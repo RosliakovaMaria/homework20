@@ -1,0 +1,9 @@
+.good_feature{
+    transition-property: margin-right, color;
+    color: blue;
+    transition-duration: 4s, 1s, 50ms;
+    transition-timing-function: ease;
+    transition-delay: 1s;
+    transform: rotate(30deg);
+    transform: scaleX(20);
+}

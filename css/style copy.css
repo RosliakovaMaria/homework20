@@ -1,0 +1,17 @@
+.card{
+width: 270px;
+height: 368px;
+left: 814px;
+top: 1635px;
+
+}
+.card img{
+    width: 270px;
+    height: 260px;
+}
+.good_feature{
+    box-shadow: 10px 5px 5px violet;
+}
+.feature{
+    box-shadow: 15px 10px 10px green;
+}
