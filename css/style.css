@@ -104,7 +104,6 @@ justify-content: center;
   transition-timing-function: ease;
   transition-delay: 1s;
   transform: rotate(20deg);
-  transform: scaleX(10);
 
   font-family: 'Roboto';
 font-style: normal;
@@ -166,5 +165,5 @@ left: 452px;
 top: 280px;
 
 background-color: #2F303A;
-background-size: 100%;
+background-size: 100%                         ;
 }
