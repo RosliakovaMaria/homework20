@@ -140,6 +140,8 @@ color: #212121;
 display: flex;
 justify-content: space-between;
 text-decoration: none;
+position: fixed;
+top: 0;
 }
 .header:hover{
   color:#2196F3;
@@ -166,4 +168,31 @@ top: 280px;
 
 background-color: #2F303A;
 background-size: 100%                         ;
+}
+
+.feature_items_or_no h2{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+
+.feature_items_or_no img{
+  display: flex;
+  justify-content: space-between;
+  object-fit: scale-down;
+
+}
+
+.boxx:nth-child(1){
+  background-color: #FFFFFF;
+}
+.boxx:nth-child(2){
+  background-color: #FFFFFF;
 }
