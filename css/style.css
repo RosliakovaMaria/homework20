@@ -192,7 +192,9 @@ color: #212121;
 
 .boxx:nth-child(1){
   background-color: #FFFFFF;
+  padding: 0;
 }
 .boxx:nth-child(2){
   background-color: #FFFFFF;
+  padding: 0;
 }
