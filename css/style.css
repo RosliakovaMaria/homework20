@@ -62,6 +62,11 @@ text-transform: uppercase;
 color: #FFFFFF;
 
 }
+.promo{
+  padding: 200px 0;
+  background-repeat: no-repeat;
+  background: url();
+}
 
 .btn{
   font-family: 'Roboto';
@@ -90,6 +95,15 @@ footer{
   background-color: #2F303A;
   height: 252px;
   width: 1600px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.li.footer{
+width: 231px;
+height: 81px;
+left: 215px;
+top: 2787px;
 }
 
 .footer_02{
@@ -140,4 +154,21 @@ letter-spacing: 0.03em;
 
 color: #FFFFFF;
 
+}
+
+.logo_2{
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+}
+
+.logo_2 span{
+  color: #FFFFFF;
 }
